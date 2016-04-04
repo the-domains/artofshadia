@@ -1,0 +1,28 @@
+name: Artofshadia
+favicon: null
+layout_spectrum: 0.6665444965474308
+typography_spectrum: 0.6985435660462826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7172154241707176
+  lightness: 0.4679644051939249
+  saturation: 0.45379401789978147
+  rhythmicContrast: 0.8024767325259745
+purpose: []
